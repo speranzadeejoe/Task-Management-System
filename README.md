@@ -74,5 +74,5 @@ This project is open-source and available under the **MIT License**.
 Feel free to fork this repository, submit issues, or make pull requests!
 
 ---
-Made with ❤️ by **Your Name**
+Made with ❤️ by Speranza Deejoe 
 
